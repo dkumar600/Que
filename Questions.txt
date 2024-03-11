@@ -1,0 +1,130 @@
+Certainly! Here is a list of the questions mentioned in your provided information:
+
+1. What is software engineering?
+2. Client Apps vs Server Apps?
+3. Basic understanding of how AI works?
+4. Examples of online IDEs? Pros and cons.
+5. Methodologies used to make and maintain a project? Components of software engineering.
+6. How many types of tickets are there?
+7. What is SDLC?
+8. Last stages of SDLC?
+9. What are frontend pioneer tech?
+10. How does a browser understand HTML?
+11. Programming language vs markup language?
+12. What is a port?
+13. Can we create an HTML file without a head?
+14. What is DOM?
+15. What is a document?
+16. What is `console.dir`?
+17. What is `null`?
+18. Children vs child nodes in DOM?
+19. `innerText` vs `textContent`.
+20. Examples of void elements.
+21. What is an element in HTML?
+22. Attributes & properties in HTML tags?
+23. What is a tooltip in HTML?
+24. Interactive & non-interactive elements?
+25. What is inline-block display?
+26. Label and input relation?
+27. Specificity value?
+28. What is `color: red !important`?
+29. Why use meta tags?
+30. Screen sizes categories.
+31. What is a box model? Color coding for margin and padding.
+32. Why are emails using tables?
+33. What is row & col span?
+34. Use cases of iframes?
+35. What is CSS, and what does it mean?
+36. Does internal CSS override external CSS?
+37. What is a universal selector? Specificity?
+38. Screen sizes categories.
+39. Syntax of writing media queries.
+40. Practice grid.
+41. What are DOM APIs?
+42. What is an API?
+43. Difference between library vs framework.
+44. What is `appendChild`, `append`, and `prepend`?
+45. What is JSON, and why JSON?
+46. What is a JSON array?
+47. What is scope?
+48. Difference between scope chaining vs lexical scope.
+49. What is hoisting?
+50. How does a temporal dead zone work?
+51. What is an execution context? Phases? Global Execution Context (GEC).
+52. What is a call stack?
+53. Difference between stack memory vs heap memory.
+54. How memory management happens inside JS.
+55. What is a fragment in JavaScript?
+56. Difference & similarity between array & string.
+57. `slice` vs `splice`?
+58. Falsy values? How to handle them.
+59. Types of functions.
+60. Using `arguments` keyword or `[...i]`?
+61. What is the rest operator?
+62. What is `NaN`? How to handle it as an edge case?
+63. What are arrow functions? When were they introduced?
+64. How is an arrow function different than a normal function? Other names?
+65. Can we call an arrow function before its initialization?
+66. Does an arrow function not get affected by `call`, `bind`, and `apply`?
+67. What is nullish coercion?
+68. What are arrow functions? When were they introduced?
+69. How is an arrow function different than a normal function? Other names?
+70. Can we call an arrow function before its initialization?
+71. Does an arrow function not get affected by `call`, `bind`, and `apply`?
+72. What is a first-class function?
+73. What is closure?
+74. Explain `this` in simple words. `this` in an event.
+75. What is an anonymous function? How to use it?
+76. What is IIFE & its use case?
+77. Characteristics of IIFE (Immediately Invoked Function Expression).
+78. What is object destructuring? Default value in destructuring?
+79. Scope of destructuring variables.
+80. Spread operator?
+81. Difference between `Object.assign` and `{...}`?
+82. How does spread not only make a 1st level deep copy? How do nested objects work?
+83. Non-primitive data types? Is a function a non-primitive?
+84. Multiple ways to achieve deep copy?
+85. What is prototype and why prototype?
+86. Prototype vs inheritance vs prototype chaining.
+87. How does an object work as prototypes?
+88. Pros & cons of prototypes?
+89. What are polyfills?
+90. What is a promise?
+91. How is JS array different from other languages?
+92. What is context switching?
+93. What is nullish coercion?
+94. 3 methods to center a div?
+95. What is a lambda function?
+96. What is `call`, `bind`, and `apply`?
+97. What is event propagation?
+98. All math functions?
+99. What are higher-order functions?
+100. What is restrict mode and why?
+101. Difference between server-side rendering and client-side rendering. Does SSR have SEO benefits?
+102. What is a web component?
+103. Why does `setTimeout` return an ID?
+104. What is Yarn?
+105. What is XOR and NOT operator in logical operators?
+106. How to add an element in an array with `splice`?
+107. Hands-on practice of event propagation.
+108. Difference between prefetch and async and defer?
+109. What is CORS?
+110. Difference between nullish coercion and nullish coalescing?
+111. Difference between `call`, `bind`, and `apply`?
+112. What it means to be single-threaded?
+113. HTML entities?
+114. Why avoid `em` and use `rem`?
+115. Higher-order functions and function currying?
+116. Position static?
+117. Differences between `<br>` tag and `<strong>` tag?
+118. Difference between `<link>` and `<a>`?
+119. What is hydration in YouTube player?
+120. Hands-on with `forEach`, `for in`, `filter`, and `reduce`.
+121. Why do non-primitive data types exist?
+122. What is `auto` in CSS?
+123. Core Web Vitals?
+124. Flex vs Grid? Where to use each?
+125. Debouncing and throttling?
+126. Event delegation and event propagation.
+127. 5 ways of creating an object.
+128. Polyfills of `map`, `filter`, `reduce`, debouncing, and throttling?
