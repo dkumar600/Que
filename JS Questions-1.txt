@@ -272,4 +272,13 @@ Ans: Both are used load script of JavaScript in HTML document. Now,For default b
 <script src="example.js" defer></script>
 <script src="example.js" async></script>
 
+Q.48 what is execution context?
+Ans : The execution context is an internal data structure that contains details about the execution of a function: where the control flow is now, the current variables, the value of this
 
+Q.49 what is lexical environment?
+Ans: In JavaScript, every running function, code block {...}, and the script as a whole have an internal (hidden) associated object known as the Lexical Environment.
+
+The Lexical Environment object consists of two parts:
+
+  1. Environment Record – an object that stores all local variables as its properties (and some other information like the value of this).
+  2. A reference to the outer lexical environment, the one associated with the outer code.
