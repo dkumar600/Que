@@ -1,4 +1,4 @@
-Q1. Methods  that is not available in node
+  Q1. Methods  that is not available in node
 Ans - alert(),prompt(),confirm().
 Q2. What is <Script> tag?
 Ans :- it is used to insert JS Program in HTML('type' attr was mandatory in HTML4)
